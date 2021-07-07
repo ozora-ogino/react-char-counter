@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-char-counter/static/css/main.d582e894.chunk.css",
+    "main.js": "/react-char-counter/static/js/main.8352206c.chunk.js",
+    "main.js.map": "/react-char-counter/static/js/main.8352206c.chunk.js.map",
+    "runtime-main.js": "/react-char-counter/static/js/runtime-main.042098d5.js",
+    "runtime-main.js.map": "/react-char-counter/static/js/runtime-main.042098d5.js.map",
+    "static/js/2.a6a1232c.chunk.js": "/react-char-counter/static/js/2.a6a1232c.chunk.js",
+    "static/js/2.a6a1232c.chunk.js.map": "/react-char-counter/static/js/2.a6a1232c.chunk.js.map",
+    "static/js/3.68cd5a5d.chunk.js": "/react-char-counter/static/js/3.68cd5a5d.chunk.js",
+    "static/js/3.68cd5a5d.chunk.js.map": "/react-char-counter/static/js/3.68cd5a5d.chunk.js.map",
+    "index.html": "/react-char-counter/index.html",
+    "static/css/main.d582e894.chunk.css.map": "/react-char-counter/static/css/main.d582e894.chunk.css.map",
+    "static/js/2.a6a1232c.chunk.js.LICENSE.txt": "/react-char-counter/static/js/2.a6a1232c.chunk.js.LICENSE.txt",
+    "static/media/dog.e4206b02.svg": "/react-char-counter/static/media/dog.e4206b02.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042098d5.js",
+    "static/js/2.a6a1232c.chunk.js",
+    "static/css/main.d582e894.chunk.css",
+    "static/js/main.8352206c.chunk.js"
+  ]
+}
