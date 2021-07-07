@@ -1,6 +1,6 @@
 {
-  "short_name": "文字数カウンター",
-  "name": "文字数カウンター",
+  "short_name": "文字数カウント",
+  "name": "文字数カウント",
   "icons": [
     {
       "src": "logo.png",
