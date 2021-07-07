@@ -43,7 +43,7 @@ function App(props) {
         <img
           src={img}
           style={{ marginTop: '2rem', width: '200px' }}
-          alt='Cover image'
+          alt='Dog on the boat'
         />
         <form className='text-form' noValidate autoComplete="off">
           <TextField
