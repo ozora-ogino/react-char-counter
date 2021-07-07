@@ -1,8 +1,6 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
-import Paper from '@material-ui/core/Paper';
 import Alert from '@material-ui/lab/Alert';
 import theme from './theme/theme';
 import img from './assets/img/dog.svg'
@@ -42,7 +40,11 @@ function App(props) {
           onClose={closeModal}>
           Copied successfully!
         </Alert>
-        <img src={img} style={{ marginTop: '2rem', width: '200px' }} />
+        <img
+          src={img}
+          style={{ marginTop: '2rem', width: '200px' }}
+          alt='Cover image'
+        />
         <form className='text-form' noValidate autoComplete="off">
           <TextField
             className="text-field"
