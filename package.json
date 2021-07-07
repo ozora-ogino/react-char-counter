@@ -1,6 +1,7 @@
 {
   "name": "counter-app",
   "version": "0.1.0",
+  "homepage": "https://ozora-ogino.github.io/react-char-counter/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
