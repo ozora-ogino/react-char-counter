@@ -1,0 +1,22 @@
+.App {
+  position: absolute;
+  top:0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  width: 100%;
+  color: white;
+}
+
+
+.text-form {
+  margin: 3rem auto;
+}
+
+.App-link {
+  color: #54a0ff;
+  text-decoration: none;
+}
