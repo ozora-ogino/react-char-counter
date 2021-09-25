@@ -2,4 +2,4 @@
 
 <img src='src/assets/img/dog.svg' width=300/>
 
-Sample app with React, Material UI and GitHub Pages.
+Beautiful charactor counter for everyone.
